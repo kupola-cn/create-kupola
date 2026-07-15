@@ -1,5 +1,5 @@
 {
-  "name": "create-kupola",
+  "name": "@kupola/create-kupola",
   "version": "2.0.0-alpha.1",
   "description": "Scaffold a new Kupola project with one command",
   "type": "module",

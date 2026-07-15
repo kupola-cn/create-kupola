@@ -7,7 +7,7 @@ Scaffold a new [Kupola](https://github.com/kupola-cn/kupola) project with one co
 ```bash
 npm create kupola@latest
 # or
-npx create-kupola
+npx @kupola/create-kupola
 ```
 
 You'll be guided through an interactive setup:
