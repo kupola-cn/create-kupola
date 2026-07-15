@@ -4,10 +4,12 @@ Scaffold a new [Kupola](https://github.com/kupola-cn/kupola) project with one co
 
 ## Usage
 
+> **Current version**: `2.0.0-alpha.1` (pre-release). Use `@next` tag:
+
 ```bash
-npm create kupola@latest
+npm create @kupola/kupola@next
 # or
-npx @kupola/create-kupola
+npx @kupola/create-kupola@next
 ```
 
 You'll be guided through an interactive setup:
@@ -59,7 +61,7 @@ my-kupola-app/
 If you prefer not to use the CLI, you can install Kupola directly:
 
 ```bash
-npm install @kupola/kupola
+npm install @kupola/kupola@next
 ```
 
 Then import in your code:
